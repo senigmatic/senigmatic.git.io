@@ -1,0 +1,32 @@
+TPC,,COMSNETS,2021, IEEE International Conference on COMmunication, Systems and NETworkS, https://www.comsnets.org/
+TPC,,MASS,2020,IEEE International Conference on Mobile Ad-hoc and Sensor Systems, https://www.iitr.ac.in/mass2020/committee.html
+TPC,E,PerCom Industry Track,2020,IEEE International Conference on Pervasive Computing and Communications, http://www.percom.org/call-for-industry-paper
+TPC,,PerCom Demo, 2020, IEEE International Conference on Pervasive Computing and Communications,http://www.percom.org/
+TPC,,WristSense,2020,Workshop on Sensing Systems and Applications Using Wrist Worn Smart Devices,https://sites.google.com/view/wristsense2020/home
+TPC,,DICE,2020, Workshop on Distributed and Intelligent Computing at the Edge, https://sites.google.com/iiitd.ac.in/dice2020/home?authuser=0
+TPC,,SmartSensing, 2020, 1st International Workshop on Smart Sensing,
+TPC,,COMSNETS Graduate Forum,2020,International Conference on COMmunication Systems and NETworkS,https://www.comsnets.org/archive/2020/graduate_forum.html
+TPC,,MobiQuitous,2019,EAI International Conference on Mobile and Ubiquitous Systems: Computing&#44; Networking and Services,http://mobiquitous2019.eai-conferences.org/
+TPC,,MSWiM,2019,ACM International Conference on Modeling&#44; Analysis and Simulation of Wireless and Mobile Systems,http://mswimconf.com/2019/
+TPC,,MASS,2019,IEEE International Conference on Mobile Ad-hoc and Sensor Systems,https://sites.google.com/view/mass2019
+TPC,,PerCom Demo, 2019, IEEE International Conference on Pervasive Computing and Communications,http://www.percom.org/Previous/ST2019/node/34.html
+TPC,,WCNC Demo,2019,IEEE Wireless Communications and Networking Conference,https://wcnc2019.ieee-wcnc.org/call-demo-papers
+TPC,,COMSNETS Graduate Forum,2019,International Conference on COMmunication Systems and NETworkS,https://www.comsnets.org/archive/2019/graduate_forum.html
+TPC,,WristSense,2019,Workshop on Sensing Systems and Applications Using Wrist Worn Smart Devices,https://sites.google.com/view/wristsense2019/home
+TPC,,MASS,2018, IEEE International Conference on Mobile Ad-hoc and Sensor Systems,http://www.ccse.uestc.edu.cn/webs/mass2018/
+TPC,,WristSense,2018, Workshop on Sensing Systems and Applications Using Wrist Worn Smart Devices,https://sites.google.com/view/wristsense2018
+TPC,,UbiComp Doctoral Colloquium,2018,International Conference on Pervasive and Ubiquitous Computing,http://ubicomp.org/ubicomp2018/cfps/doctoral.html
+RVW,,ACM HEALTH,2019,ACM Transactions on Computing for Healthcare,https://health.acm.org/special_issue_wearable_health.cfm
+RVW,E,WoWMoM,2019,IEEE International Symposium on a World of Wireless&#44; Mobile and Multimedia networks,http://cs.ucf.edu/wowmom2019/
+RVW,,IMWUT,2018-20,Interactive&#44; Mobile&#44; Wearable and Ubiquitous Technologies Journal,https://imwut.acm.org/
+RVW,,IJDSN,2018,SAGE Publications International Journal of Distributed Sensor Networks,https://journals.sagepub.com/home/dsn
+RVW,,TMC,2018,IEEE Transactions on Mobile Computing,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755
+RVW,,PMC,2017-19,Elsevier Pervasive and Mobile Computing,https://www.journals.elsevier.com/pervasive-and-mobile-computing
+RVW,E,UbiComp,, International Conference on Pervasive and Ubiquitous Computing,
+RVW,E,MobiQuitous,2016,EAI International Conference on Mobile and Ubiquitous Systems: Computing&#44; Networking and Services,http://archive.mobiquitous.org/2016/show/home
+RVW,E,ISWC,2013,ACM International Symposium on Wearable Computers,
+WEB,,WristSense,2020,Workshop on Sensing Systems and Applications Using Wrist Worn Smart Devices,https://sites.google.com/view/wristsense2020/home
+WEB,,WristSense,2019,Workshop on Sensing Systems and Applications Using Wrist Worn Smart Devices,https://sites.google.com/view/wristsense2019/home
+WEB,,UbiComp,2018,International Conference on Pervasive and Ubiquitous Computing,http://ubicomp.org/ubicomp2018/
+SV,,COMSNETS,2016,International Conference on COMmunication Systems and NETworkS,https://www.comsnets.org/archive/2016/
+SV,,SECON,2014,IEEE International Conference on Sensing&#44; Communication and Networking,https://secon2014.ieee-secon.org/

@@ -1,0 +1,91 @@
+
+
+\hangindent=1em \hangafter=0
+\textbf{Program Committee: }PerCom Industry Track 2020, IEEE International Conference on Pervasive Computing and Communications.
+
+\hangindent=1em \hangafter=0
+\textbf{Program Committee: }PerCom Demo 2020,  IEEE International Conference on Pervasive Computing and Communications.
+
+\hangindent=1em \hangafter=0
+\textbf{Program Committee: }WristSense 2020, Workshop on Sensing Systems and Applications Using Wrist Worn Smart Devices.
+
+\hangindent=1em \hangafter=0
+\textbf{Program Committee: }DICE 2020,  Workshop on Distributed and Intelligent Computing at the Edge.
+
+\hangindent=1em \hangafter=0
+\textbf{Program Committee: }SmartSensing 2020,  1st International Workshop on Smart Sensing.
+
+\hangindent=1em \hangafter=0
+\textbf{Program Committee: }COMSNETS Graduate Forum 2020, International Conference on COMmunication Systems and NETworkS.
+
+\hangindent=1em \hangafter=0
+\textbf{Web Chair: }WristSense 2020, Workshop on Sensing Systems and Applications Using Wrist Worn Smart Devices.
+
+\hangindent=1em \hangafter=0
+\textbf{Program Committee: }MobiQuitous 2019, EAI International Conference on Mobile and Ubiquitous Systems: Computing&#44; Networking and Services.
+
+\hangindent=1em \hangafter=0
+\textbf{Program Committee: }MSWiM 2019, ACM International Conference on Modeling&#44; Analysis and Simulation of Wireless and Mobile Systems.
+
+\hangindent=1em \hangafter=0
+\textbf{Program Committee: }MASS 2019, IEEE International Conference on Mobile Ad-hoc and Sensor Systems.
+
+\hangindent=1em \hangafter=0
+\textbf{Program Committee: }PerCom Demo 2019,  IEEE International Conference on Pervasive Computing and Communications.
+
+\hangindent=1em \hangafter=0
+\textbf{Program Committee: }WCNC Demo 2019, IEEE Wireless Communications and Networking Conference.
+
+\hangindent=1em \hangafter=0
+\textbf{Program Committee: }COMSNETS Graduate Forum 2019, International Conference on COMmunication Systems and NETworkS.
+
+\hangindent=1em \hangafter=0
+\textbf{Program Committee: }WristSense 2019, Workshop on Sensing Systems and Applications Using Wrist Worn Smart Devices.
+
+\hangindent=1em \hangafter=0
+\textbf{Reviewer: }ACM HEALTH 2019, ACM Transactions on Computing for Healthcare.
+
+\hangindent=1em \hangafter=0
+\textbf{Reviewer: }WoWMoM 2019, IEEE International Symposium on a World of Wireless&#44; Mobile and Multimedia networks. External.
+
+\hangindent=1em \hangafter=0
+\textbf{Web Chair: }WristSense 2019, Workshop on Sensing Systems and Applications Using Wrist Worn Smart Devices.
+
+\hangindent=1em \hangafter=0
+\textbf{Reviewer: }IMWUT 2018-19, Interactive&#44; Mobile&#44; Wearable and Ubiquitous Technologies Journal.
+
+\hangindent=1em \hangafter=0
+\textbf{Program Committee: }MASS 2018,  IEEE International Conference on Mobile Ad-hoc and Sensor Systems.
+
+\hangindent=1em \hangafter=0
+\textbf{Program Committee: }WristSense 2018,  Workshop on Sensing Systems and Applications Using Wrist Worn Smart Devices.
+
+\hangindent=1em \hangafter=0
+\textbf{Program Committee: }UbiComp Doctoral Colloquium 2018, International Conference on Pervasive and Ubiquitous Computing.
+
+\hangindent=1em \hangafter=0
+\textbf{Reviewer: }IJDSN 2018, SAGE Publications International Journal of Distributed Sensor Networks.
+
+\hangindent=1em \hangafter=0
+\textbf{Reviewer: }TMC 2018, IEEE Transactions on Mobile Computing.
+
+\hangindent=1em \hangafter=0
+\textbf{Web Chair: }UbiComp 2018, International Conference on Pervasive and Ubiquitous Computing.
+
+\hangindent=1em \hangafter=0
+\textbf{Reviewer: }PMC 2017-19, Elsevier Pervasive and Mobile Computing.
+
+\hangindent=1em \hangafter=0
+\textbf{Reviewer: }MobiQuitous 2016, EAI International Conference on Mobile and Ubiquitous Systems: Computing&#44; Networking and Services. External.
+
+\hangindent=1em \hangafter=0
+\textbf{Student Volunteer: }COMSNETS 2016, International Conference on COMmunication Systems and NETworkS.
+
+\hangindent=1em \hangafter=0
+\textbf{Student Volunteer: }SECON 2014, IEEE International Conference on Sensing&#44; Communication and Networking.
+
+\hangindent=1em \hangafter=0
+\textbf{Reviewer: }ISWC 2013, ACM International Symposium on Wearable Computers. External.
+
+\hangindent=1em \hangafter=0
+\textbf{Reviewer: }UbiComp ,  International Conference on Pervasive and Ubiquitous Computing. External.

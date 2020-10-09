@@ -230,7 +230,7 @@ paper {font-style:italic;}
 }
 .newsClass
 {
-    height: 500px;
+    height: 300px;
     overflow: -moz-scrollbars-vertical; 
     overflow-y: scroll;
     text-align: justify;

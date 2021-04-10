@@ -6,11 +6,11 @@ def parseAndCreateForWebSite():
     rvw = {}
     web = {}
     sv = {}
-    with open('../services.txt') as text:
+    with open('../data/services.txt') as text:
         for txt in text:
             lsp = txt.split(',')
             if lsp[0].strip()=='TPC':
-                temp='\t<li><strong><a href=\"'+lsp[5]+'\">['+lsp[2].strip()+']</a></strong>&nbsp;&nbsp;'+lsp[4].strip()+'.&nbsp;'+lsp[3].strip()+'.</li>\n'
+                temp = '\t<li><strong><a href=\"'+lsp[5]+'\">[' + lsp[2].strip() + ']</a></strong>&nbsp;&nbsp;' + lsp[4].strip() + '.&nbsp;' + lsp[3].strip() + '.</li>\n'
                 if lsp[3].strip() in tpc:
                     temp=tpc[lsp[3].strip()]+temp
                 tpc[lsp[3].strip()]=temp

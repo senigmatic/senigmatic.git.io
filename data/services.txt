@@ -1,5 +1,5 @@
 TPC,,MASS,2021,IEEE International Conference on Mobile Ad-hoc and Sensor Systems, https://eng.auburn.edu/conference/ieee-mass2021/
-EB,,Ad Hoc Networks,2021-23, Elsevier Journal on Ad Hoc Networks,https://www.sciencedirect.com/journal/ad-hoc-networks 
+EB,,Ad Hoc Networks,2021-23, Elsevier Journal on Ad Hoc Networks,https://www.sciencedirect.com/journal/ad-hoc-networks
 DC,,ICDCN,2022,International Conference on Distributed Computing and Networking,https://icdcn2022.iiitd.edu.in/index.html
 TPC,,Compass,2021,ACM SIGCAS Conference on Computing and Sustainable Societies,https://compass.acm.org/
 SMC,,COMSNETS,2022, IEEE International Conference on COMmunication&#44; Systems and NETworkS, https://www.comsnets.org/

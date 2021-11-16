@@ -1,11 +1,13 @@
 import operator
-#use serviceParseCV to create the files
+#incorporate this for the website https://www.sitepoint.com/building-a-filtering-component-with-css-animations-jquery/
 serviceFile = '../data/services_v2.txt'
 serviceKey = '../data/serviceKey.txt'
 serviceAbbr ={}
 serviceWeb = {}
 serviceCV = {}
 webOut = ''
+website=True
+cv=False
 
 
 '''Get all the services that exist'''
@@ -88,11 +90,14 @@ def writeToFile(filename, content):
     f.write(content)
     f.close()
 
+
 parseServices()
 #print(serviceAbbr)
 parseAndCreate()
 #print(serviceWeb)
 serv = organizeInOrder()
 print(serv)
-writeToFile('../content-serv.html',serv)
+
+if website==True:
+    writeToFile('../newServ.html',serv)
 #groupYears()

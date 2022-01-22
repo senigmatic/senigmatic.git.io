@@ -1,2 +1,2 @@
 PI,NIH/NIDA through Dartmouth Center for Technology & Behavioral Health,2018,Development of Mobile Application for the Auracle Wearable System for Eating Behavior Monitoring Studies, $20000, 09/12/2018 - 09/11/2019.
-PI,Research Initiation Grant at BITS Pilani,2021,Running Machine Learning Algorithms on Mobile Wearable and IoT Devices for Monitoring Physiological Stress and Understanding their Effect on Human Behaviour and Academic Performance, Rs. 200000, 03/20/2021 - 03/19/2023.
+PI,Research Initiation Grant at BITS Pilani,2021,Running Machine Learning Algorithms on Mobile Wearable and IoT Devices for Monitoring Physiological Stress and Understanding their Effect on Human Behaviour and Academic Performance, Rs. 200,000, 03/20/2021 - 03/19/2023.

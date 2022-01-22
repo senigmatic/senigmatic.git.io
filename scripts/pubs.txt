@@ -2,22 +2,28 @@
 \subsection{Journals}
 %\begin{itemize-noindent} [label={}]
 
-\hangindent=3em\hangafter=1[J1.] \textbf{Sougata Sen}, Vigneshwaran Subbaraju, Archan Misra, Rajesh Balan, Youngki Lee. \emph{Annapurna: An automated smartwatch-based eating detection and food journaling system. }Pervasive and Mobile Computing. 68(), 2020. \url{https://dx.doi.org/10.1016/j.pmcj.2020.101259}.\vspace{0.1in} 
+\hangindent=3em\hangafter=1[J1.] \textbf{Sougata Sen}, David Kotz. \emph{VibeRing: Using vibrations from a smart ring as an out-of-band channel for sharing secret keys. }Pervasive and Mobile Computing. (), 2021. \url{https://www.sciencedirect.com/science/article/pii/S1574119221001309}.\vspace{0.1in} 
 
 
-\hangindent=3em\hangafter=1[J2.] Shibo Zhang, Yuqi Zhao, Dzung Tri Nguyen, Runsheng Xu, \textbf{Sougata Sen}, Josiah Hester, Nabil Alshurafa. \emph{NeckSense: A Multi-Sensor Necklace for Detecting Eating Activities in Free-Living Conditions. }In Interactive, Mobile, Wearable and Ubiquitous Technologies. 37(4), 2020. \textcolor{red}{[Best Presentation Runner-up at UbiComp/ISWC'20]} \url{https://dx.doi.org/10.1145/3397313}.\vspace{0.1in} 
+\hangindent=3em\hangafter=1[J2.] Varun Mishra, \textbf{Sougata Sen}, Grace Chen, Tian Hao, Jeffrey Rogers, Ching-Hua Chen, David Kotz. \emph{Evaluating the Reproducibility of Physiological Stress Detection Models. }Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.. 4(4), 2020. \url{https://doi.org/10.1145/3432220}.\vspace{0.1in} 
 
 
-\hangindent=3em\hangafter=1[J3.] Varun Mishra, Gunnar Pope, Sarah Lord, Stephanie Lewia, Byron Lowens, Kelly Caine, \textbf{Sougata Sen}, Ryan Halter, David Kotz. \emph{Continuous Detection of Physiological Stress with Commodity Hardware. }ACM Transactions on Computing for Healthcare. 1(2), 2020. \url{https://dx.doi.org/10.1145/3361562}.\vspace{0.1in} 
+\hangindent=3em\hangafter=1[J3.] \textbf{Sougata Sen}, Vigneshwaran Subbaraju, Archan Misra, Rajesh Balan, Youngki Lee. \emph{Annapurna: An automated smartwatch-based eating detection and food journaling system. }Pervasive and Mobile Computing. 68(), 2020. \url{https://dx.doi.org/10.1016/j.pmcj.2020.101259}.\vspace{0.1in} 
 
 
-\hangindent=3em\hangafter=1[J4.] Shengjie Bi, Kelly Caine, Ryan Halter, Jacob Sorber, David Kotz, Tao Wang, Nicole Tobias, Josephine Nordrum, Shang Wang, George Halvorsen, \textbf{Sougata Sen}, Ronald Peterson, Kofi Odame. \emph{Auracle: Detecting Eating Episodes with an Ear-mounted Sensor. }In Interactive, Mobile, Wearable and Ubiquitous Technologies. 2(3), 2018. \url{https://dx.doi.org/10.1145/3264902}.\vspace{0.1in} 
+\hangindent=3em\hangafter=1[J4.] Shibo Zhang, Yuqi Zhao, Dzung Tri Nguyen, Runsheng Xu, \textbf{Sougata Sen}, Josiah Hester, Nabil Alshurafa. \emph{NeckSense: A Multi-Sensor Necklace for Detecting Eating Activities in Free-Living Conditions. }In Interactive, Mobile, Wearable and Ubiquitous Technologies. 37(4), 2020. \textcolor{red}{[Best Presentation Runner-up at UbiComp/ISWC'20]} \url{https://dx.doi.org/10.1145/3397313}.\vspace{0.1in} 
 
 
-\hangindent=3em\hangafter=1[J5.] Tianli Mo, Lipyeow Lim, \textbf{Sougata Sen}, Archan Misra, Rajesh Krishna Balan, Youngki Lee. \emph{Cloud-based query evaluation for energy-efficient mobile sensing. }Pervasive and Mobile Computing. 38(1), 2017. \url{https://dx.doi.org/10.1016/j.pmcj.2016.12.005}.\vspace{0.1in} 
+\hangindent=3em\hangafter=1[J5.] Varun Mishra, Gunnar Pope, Sarah Lord, Stephanie Lewia, Byron Lowens, Kelly Caine, \textbf{Sougata Sen}, Ryan Halter, David Kotz. \emph{Continuous Detection of Physiological Stress with Commodity Hardware. }ACM Transactions on Computing for Healthcare. 1(2), 2020. \url{https://dx.doi.org/10.1145/3361562}.\vspace{0.1in} 
 
 
-\hangindent=3em\hangafter=1[J6.] Mateusz Mikusz, Sarah Clinch, \textbf{Sougata Sen}. \emph{MobiSys 2016. }Pervasive Computing. 15(4), 2016. \url{http://ieeexplore.ieee.org/document/7676201/}.\vspace{0.1in} 
+\hangindent=3em\hangafter=1[J6.] Shengjie Bi, Kelly Caine, Ryan Halter, Jacob Sorber, David Kotz, Tao Wang, Nicole Tobias, Josephine Nordrum, Shang Wang, George Halvorsen, \textbf{Sougata Sen}, Ronald Peterson, Kofi Odame. \emph{Auracle: Detecting Eating Episodes with an Ear-mounted Sensor. }In Interactive, Mobile, Wearable and Ubiquitous Technologies. 2(3), 2018. \url{https://dx.doi.org/10.1145/3264902}.\vspace{0.1in} 
+
+
+\hangindent=3em\hangafter=1[J7.] Tianli Mo, Lipyeow Lim, \textbf{Sougata Sen}, Archan Misra, Rajesh Krishna Balan, Youngki Lee. \emph{Cloud-based query evaluation for energy-efficient mobile sensing. }Pervasive and Mobile Computing. 38(1), 2017. \url{https://dx.doi.org/10.1016/j.pmcj.2016.12.005}.\vspace{0.1in} 
+
+
+\hangindent=3em\hangafter=1[J8.] Mateusz Mikusz, Sarah Clinch, \textbf{Sougata Sen}. \emph{MobiSys 2016. }Pervasive Computing. 15(4), 2016. \url{http://ieeexplore.ieee.org/document/7676201/}.\vspace{0.1in} 
 
 
 %\end{itemize-noindent}
@@ -25,37 +31,46 @@
 \subsection{Conferences}
 %\begin{itemize-noindent} [label={}]
 
-\hangindent=3em\hangafter=1[C1.] \textbf{Sougata Sen}, David Kotz. \emph{VibeRing: Using vibrations from a smart ring as an out-of-band channel for sharing secret keys. } In Proceedings of the International Conference on the Internet of Things (IoT 2020). \textcolor{red}{[Nominated as Candidate for Best Paper Award]} \url{https://dx.doi.org/10.1145/3410992.3410995}.\vspace{0.1in} 
+\hangindent=3em\hangafter=1[C1.] Tejal Karnavat, Jaskaran Singh Bhatia, Surjya Ghosh, \textbf{Sougata Sen}. \emph{Exploring the challenges of using food journaling apps: A case-study with young adults. } In 18th EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (MobiQuitous '21 2021). \url{}.\vspace{0.1in} 
 
 
-\hangindent=3em\hangafter=1[C2.] Shengjie Bi, Yiyang Lu, Nicole Tobias, Ella Ryan, Travis Masterson, \textbf{Sougata Sen}, Ryan Halter, Jacob Sorber, Diane Gilbert-Diamond, David Kotz. \emph{Measuring children's eating behavior with a wearable device. } In International Conference on Healthcare Informatics (ICHI 2020). \url{https://dx.doi.org/}.\vspace{0.1in} 
+\hangindent=3em\hangafter=1[C2.] Rawan Alharbi, Chunlin Feng, \textbf{Sougata Sen}, Jayalakshmi Jain, Josiah Hester, Nabil Alshurafa. \emph{HeatSight: Wearable Low-Power Omni Thermal Sensing. } In 2021 International Symposium on Wearable Computers (ISWC '21 2021). \url{https://doi.org/10.1145/3460421.3478811}.\vspace{0.1in} 
 
 
-\hangindent=3em\hangafter=1[C3.] \textbf{Sougata Sen}, Archan Misra, Vigneshwaran Subbaraju, Karan Grover, Meera Radhakrishnan, Rajesh K. Balan, Youngki Lee. \emph{I4S: Capturing shopper's in-store interactions. } In International Symposium on Wearable Computers (ISWC 2018). \url{https://dx.doi.org/10.1145/3267242.3267259}.\vspace{0.1in} 
+\hangindent=3em\hangafter=1[C3.] Travis Peters, Timothy J. Pierson, \textbf{Sougata Sen}, Jos{\'{e}} Camacho, David Kotz. \emph{Recurring Verification of Interaction Authenticity Within Bluetooth Networks. } In Proceedings of the ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec'21 2021). \url{https://www.cs.dartmouth.edu/~kotz/research/peters-via/index.html}.\vspace{0.1in} 
 
 
-\hangindent=3em\hangafter=1[C4.] Meera Radhakrishnan, \textbf{Sougata Sen}, Archan Misra, Youngki Lee, Rajesh Krishna Balan. \emph{Smart monitoring via participatory BLE relaying. } In International Conference on Communication Systems and Networks (COMSNETS 2018). \url{https://dx.doi.org/10.1109/COMSNETS.2018.8328213}.\vspace{0.1in} 
+\hangindent=3em\hangafter=1[C4.] \textbf{Sougata Sen}, David Kotz. \emph{VibeRing: Using vibrations from a smart ring as an out-of-band channel for sharing secret keys. } In Proceedings of the International Conference on the Internet of Things (IoT 2020). \textcolor{red}{[Nominated as Candidate for Best Paper Award]} \url{https://dx.doi.org/10.1145/3410992.3410995}.\vspace{0.1in} 
 
 
-\hangindent=3em\hangafter=1[C5.] \textbf{Sougata Sen}, Vigneshwaran Subbaraju, Archan Misra, Rajesh Balan, Youngki Lee. \emph{Annapurna: Building a Real-World Smartwatch-Based Automated Food Journal. } In International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM 2018). \url{https://dx.doi.org/10.1109/WoWMoM.2018.8449755}.\vspace{0.1in} 
+\hangindent=3em\hangafter=1[C5.] Shengjie Bi, Yiyang Lu, Nicole Tobias, Ella Ryan, Travis Masterson, \textbf{Sougata Sen}, Ryan Halter, Jacob Sorber, Diane Gilbert-Diamond, David Kotz. \emph{Measuring children's eating behavior with a wearable device. } In International Conference on Healthcare Informatics (ICHI 2020). \url{https://dx.doi.org/}.\vspace{0.1in} 
 
 
-\hangindent=3em\hangafter=1[C6.] Meera Radhakrishnan, \textbf{Sougata Sen}, Vigneshwaran Subbaraju, Archan Misra, Rajesh Krishna Balan. \emph{IoT+Small Data: Transforming in-store shopping analytics {\&} services. } In International Conference on Communication Systems and Networks (COMSNETS 2016). \url{https://dx.doi.org/10.1109/COMSNETS.2016.7439946}.\vspace{0.1in} 
+\hangindent=3em\hangafter=1[C6.] \textbf{Sougata Sen}, Archan Misra, Vigneshwaran Subbaraju, Karan Grover, Meera Radhakrishnan, Rajesh K. Balan, Youngki Lee. \emph{I4S: Capturing shopper's in-store interactions. } In International Symposium on Wearable Computers (ISWC 2018). \url{https://dx.doi.org/10.1145/3267242.3267259}.\vspace{0.1in} 
 
 
-\hangindent=3em\hangafter=1[C7.] S. Vigneshwaran, \textbf{Sougata Sen}, Archan Misra, Satyadip Chakraborti, Rajesh Krishna Balan. \emph{Using infrastructure-provided context filters for efficient fine-grained activity sensing. } In International Conference on Pervasive Computing and Communications (PerCom 2015). \url{http://ieeexplore.ieee.org/document/7146513/}.\vspace{0.1in} 
+\hangindent=3em\hangafter=1[C7.] Meera Radhakrishnan, \textbf{Sougata Sen}, Archan Misra, Youngki Lee, Rajesh Krishna Balan. \emph{Smart monitoring via participatory BLE relaying. } In International Conference on Communication Systems and Networks (COMSNETS 2018). \url{https://dx.doi.org/10.1109/COMSNETS.2018.8328213}.\vspace{0.1in} 
 
 
-\hangindent=3em\hangafter=1[C8.] \textbf{Sougata Sen}, Kartik Muralidharan. \emph{Putting ‘pressure' on mobile authentication. } In International Conference on Mobile Computing and Ubiquitous Networking (ICMU 2014). \url{http://ieeexplore.ieee.org/document/6799058/}.\vspace{0.1in} 
+\hangindent=3em\hangafter=1[C8.] \textbf{Sougata Sen}, Vigneshwaran Subbaraju, Archan Misra, Rajesh Balan, Youngki Lee. \emph{Annapurna: Building a Real-World Smartwatch-Based Automated Food Journal. } In International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM 2018). \url{https://dx.doi.org/10.1109/WoWMoM.2018.8449755}.\vspace{0.1in} 
 
 
-\hangindent=3em\hangafter=1[C9.] Tianli Mo, \textbf{Sougata Sen}, Lipyeow Lim, Archan Misra, Rajesh Krishna Balan, Youngki Lee. \emph{Cloud-based query evaluation for energy-efficient mobile sensing. } In International Conference on Mobile Data Management (MDM 2014). \url{https://dx.doi.org/10.1109/MDM.2014.33}.\vspace{0.1in} 
+\hangindent=3em\hangafter=1[C9.] Meera Radhakrishnan, \textbf{Sougata Sen}, Vigneshwaran Subbaraju, Archan Misra, Rajesh Krishna Balan. \emph{IoT+Small Data: Transforming in-store shopping analytics {\&} services. } In International Conference on Communication Systems and Networks (COMSNETS 2016). \url{https://dx.doi.org/10.1109/COMSNETS.2016.7439946}.\vspace{0.1in} 
 
 
-\hangindent=3em\hangafter=1[C10.] \textbf{Sougata Sen}, Dipanjan Chakraborty, Vigneshwaran Subbaraju, Dipyaman Banerjee, Archan Misra, Nilanjan Banerjee, Sumit Mittal. \emph{Accommodating user diversity for in-store shopping behavior recognition. } In International Symposium on Wearable Computers (ISWC 2014). \url{http://dl.acm.org/citation.cfm?doid=2634317.2634338}.\vspace{0.1in} 
+\hangindent=3em\hangafter=1[C10.] S. Vigneshwaran, \textbf{Sougata Sen}, Archan Misra, Satyadip Chakraborti, Rajesh Krishna Balan. \emph{Using infrastructure-provided context filters for efficient fine-grained activity sensing. } In International Conference on Pervasive Computing and Communications (PerCom 2015). \url{http://ieeexplore.ieee.org/document/7146513/}.\vspace{0.1in} 
 
 
-\hangindent=3em\hangafter=1[C11.] Kumar Padmanabh, Mallikarjuna Reddy V Adi, \textbf{Sougata Sen}, Puneet Gupta. \emph{Random Walk on Random Graph based Outlier Detection in Wireless Sensor Networks. } In International Conference on Wireless Communication and Sensor Networks (WCSN 2007). \url{http://ieeexplore.ieee.org/document/4475745/}.\vspace{0.1in} 
+\hangindent=3em\hangafter=1[C11.] \textbf{Sougata Sen}, Kartik Muralidharan. \emph{Putting ‘pressure' on mobile authentication. } In International Conference on Mobile Computing and Ubiquitous Networking (ICMU 2014). \url{http://ieeexplore.ieee.org/document/6799058/}.\vspace{0.1in} 
+
+
+\hangindent=3em\hangafter=1[C12.] Tianli Mo, \textbf{Sougata Sen}, Lipyeow Lim, Archan Misra, Rajesh Krishna Balan, Youngki Lee. \emph{Cloud-based query evaluation for energy-efficient mobile sensing. } In International Conference on Mobile Data Management (MDM 2014). \url{https://dx.doi.org/10.1109/MDM.2014.33}.\vspace{0.1in} 
+
+
+\hangindent=3em\hangafter=1[C13.] \textbf{Sougata Sen}, Dipanjan Chakraborty, Vigneshwaran Subbaraju, Dipyaman Banerjee, Archan Misra, Nilanjan Banerjee, Sumit Mittal. \emph{Accommodating user diversity for in-store shopping behavior recognition. } In International Symposium on Wearable Computers (ISWC 2014). \url{http://dl.acm.org/citation.cfm?doid=2634317.2634338}.\vspace{0.1in} 
+
+
+\hangindent=3em\hangafter=1[C14.] Kumar Padmanabh, Mallikarjuna Reddy V Adi, \textbf{Sougata Sen}, Puneet Gupta. \emph{Random Walk on Random Graph based Outlier Detection in Wireless Sensor Networks. } In International Conference on Wireless Communication and Sensor Networks (WCSN 2007). \url{http://ieeexplore.ieee.org/document/4475745/}.\vspace{0.1in} 
 
 
 %\end{itemize-noindent}
@@ -63,37 +78,40 @@
 \subsection{Workshops}
 %\begin{itemize-noindent} [label={}]
 
-\hangindent=3em\hangafter=1[W1.] Shibo Zhang, Qiuyang Xu, \textbf{Sougata Sen}, Nabil Alshurafa. \emph{VibroScale: Turning Your Smartphone into a Weighing Scale. } In International Joint Conference on Pervasive and Ubiquitous Computing and International Symposium on Wearable Computers (UbiComp/ISWC Adjunct 2020). \textcolor{red}{[Best Poster Award]} \url{https://dx.doi.org/10.1145/3410530.3414397}.\vspace{0.1in} 
+\hangindent=3em\hangafter=1[W1.] \textbf{Sougata Sen}, Sunghoon Ivan Lee, Robert Jackson, Rui Wang, Nabil Alshurafa, Josiah Hester, Jeremy Gummeson. \emph{Towards Battery-Free Body Sensor Networks. } In Proceedings of the 8th International Workshop on Energy Harvesting and Energy-Neutral Sensing Systems (ENSsys '20 2020). \url{https://doi.org/10.1145/3417308.3430275}.\vspace{0.1in} 
 
 
-\hangindent=3em\hangafter=1[W2.] \textbf{Sougata Sen}, Varun Mishra, David Kotz. \emph{Using Vibrations from a SmartRing as an Out-of-band Channel for Sharing Secret Keys. } In International Joint Conference on Pervasive and Ubiquitous Computing and International Symposium on Wearable Computers (UbiComp/ISWC Adjunct 2019). \url{https://dx.doi.org/10.1145/3341162.3343818}.\vspace{0.1in} 
+\hangindent=3em\hangafter=1[W2.] Shibo Zhang, Qiuyang Xu, \textbf{Sougata Sen}, Nabil Alshurafa. \emph{VibroScale: Turning Your Smartphone into a Weighing Scale. } In International Joint Conference on Pervasive and Ubiquitous Computing and International Symposium on Wearable Computers (UbiComp/ISWC Adjunct 2020). \textcolor{red}{[Best Poster Award]} \url{https://dx.doi.org/10.1145/3410530.3414397}.\vspace{0.1in} 
 
 
-\hangindent=3em\hangafter=1[W3.] Varun Mishra, Gunnar Pope, Sarah Lord, Stephanie Lewia, Byron Lowens, Kelly Caine, \textbf{Sougata Sen}, Ryan Halter, David Kotz. \emph{The case for a commodity hardware solution for stress detection. } In International Joint Conference on Pervasive and Ubiquitous Computing and International Symposium on Wearable Computers (UbiComp/ISWC Adjunct 2018). \url{https://dx.doi.org/10.1145/3267305.3267538}.\vspace{0.1in} 
+\hangindent=3em\hangafter=1[W3.] \textbf{Sougata Sen}, Varun Mishra, David Kotz. \emph{Using Vibrations from a SmartRing as an Out-of-band Channel for Sharing Secret Keys. } In International Joint Conference on Pervasive and Ubiquitous Computing and International Symposium on Wearable Computers (UbiComp/ISWC Adjunct 2019). \url{https://dx.doi.org/10.1145/3341162.3343818}.\vspace{0.1in} 
 
 
-\hangindent=3em\hangafter=1[W4.] \textbf{Sougata Sen}, Karan Grover, Vigneshwaran Subbaraju, Archan Misra. \emph{Inferring smartphone keypress via smartwatch inertial sensing. } In International Conference on Pervasive Computing and Communications Workshops (PerCom Workshops 2017). \url{https://dx.doi.org/10.1109/PERCOMW.2017.7917646}.\vspace{0.1in} 
+\hangindent=3em\hangafter=1[W4.] Varun Mishra, Gunnar Pope, Sarah Lord, Stephanie Lewia, Byron Lowens, Kelly Caine, \textbf{Sougata Sen}, Ryan Halter, David Kotz. \emph{The case for a commodity hardware solution for stress detection. } In International Joint Conference on Pervasive and Ubiquitous Computing and International Symposium on Wearable Computers (UbiComp/ISWC Adjunct 2018). \url{https://dx.doi.org/10.1145/3267305.3267538}.\vspace{0.1in} 
 
 
-\hangindent=3em\hangafter=1[W5.] \textbf{Sougata Sen}, Vigneshwaran Subbaraju, Archan Misra, Rajesh Krishna Balan, Youngki Lee. \emph{Experiences in Building a Real-World Eating Recogniser. } In International on Workshop on Physical Analytics (WPA 2017). \url{http://dl.acm.org/citation.cfm?doid=3092305.3092306}.\vspace{0.1in} 
+\hangindent=3em\hangafter=1[W5.] \textbf{Sougata Sen}, Karan Grover, Vigneshwaran Subbaraju, Archan Misra. \emph{Inferring smartphone keypress via smartwatch inertial sensing. } In International Conference on Pervasive Computing and Communications Workshops (PerCom Workshops 2017). \url{https://dx.doi.org/10.1109/PERCOMW.2017.7917646}.\vspace{0.1in} 
 
 
-\hangindent=3em\hangafter=1[W6.] \textbf{Sougata Sen}. \emph{Pervasive physical analytics using multi-modal sensing. } In International Conference on Communication Systems and Networks (COMSNETS 2016). \url{https://dx.doi.org/10.1109/COMSNETS.2016.7439998}.\vspace{0.1in} 
+\hangindent=3em\hangafter=1[W6.] \textbf{Sougata Sen}, Vigneshwaran Subbaraju, Archan Misra, Rajesh Krishna Balan, Youngki Lee. \emph{Experiences in Building a Real-World Eating Recogniser. } In International on Workshop on Physical Analytics (WPA 2017). \url{http://dl.acm.org/citation.cfm?doid=3092305.3092306}.\vspace{0.1in} 
 
 
-\hangindent=3em\hangafter=1[W7.] \textbf{Sougata Sen}, Kiran K. Rachuri, Abhishek Mukherji, Archan Misra. \emph{Did you take a break today? Detecting playing foosball using your smartwatch. } In International Conference on Pervasive Computing and Communication Workshops (PerCom Workshops 2016). \url{https://dx.doi.org/10.1109/PERCOMW.2016.7457165}.\vspace{0.1in} 
+\hangindent=3em\hangafter=1[W7.] \textbf{Sougata Sen}. \emph{Pervasive physical analytics using multi-modal sensing. } In International Conference on Communication Systems and Networks (COMSNETS 2016). \url{https://dx.doi.org/10.1109/COMSNETS.2016.7439998}.\vspace{0.1in} 
 
 
-\hangindent=3em\hangafter=1[W8.] \textbf{Sougata Sen}, Vigneshwaran Subbaraju, Archan Misra, Rajesh Krishna Balan, Youngki Lee. \emph{The case for smartwatch-based diet monitoring. } In International Conference on Pervasive Computing and Communication Workshops (PerCom Workshops 2015). \textcolor{red}{[Best Paper Award]} \url{http://ieeexplore.ieee.org/document/7134103/}.\vspace{0.1in} 
+\hangindent=3em\hangafter=1[W8.] \textbf{Sougata Sen}, Kiran K. Rachuri, Abhishek Mukherji, Archan Misra. \emph{Did you take a break today? Detecting playing foosball using your smartwatch. } In International Conference on Pervasive Computing and Communication Workshops (PerCom Workshops 2016). \url{https://dx.doi.org/10.1109/PERCOMW.2016.7457165}.\vspace{0.1in} 
 
 
-\hangindent=3em\hangafter=1[W9.] \textbf{Sougata Sen}. \emph{Opportunities and challenges in multi-modal sensing for regular lifestyle tracking. } In International Conference on Pervasive Computing and Communication Workshops (PerCom Workshops 2015). \url{http://ieeexplore.ieee.org/document/7134030/}.\vspace{0.1in} 
+\hangindent=3em\hangafter=1[W9.] \textbf{Sougata Sen}, Vigneshwaran Subbaraju, Archan Misra, Rajesh Krishna Balan, Youngki Lee. \emph{The case for smartwatch-based diet monitoring. } In International Conference on Pervasive Computing and Communication Workshops (PerCom Workshops 2015). \textcolor{red}{[Best Paper Award]} \url{http://ieeexplore.ieee.org/document/7134103/}.\vspace{0.1in} 
 
 
-\hangindent=3em\hangafter=1[W10.] \textbf{Sougata Sen}, Archan Misra, Rajesh Balan, Lipyeow Lim. \emph{The case for cloud-enabled mobile sensing services. } In Proceedings of MCC workshop on Mobile cloud computing (MCC 2012). \url{http://dl.acm.org/citation.cfm?doid=2342509.2342521}.\vspace{0.1in} 
+\hangindent=3em\hangafter=1[W10.] \textbf{Sougata Sen}. \emph{Opportunities and challenges in multi-modal sensing for regular lifestyle tracking. } In International Conference on Pervasive Computing and Communication Workshops (PerCom Workshops 2015). \url{http://ieeexplore.ieee.org/document/7134030/}.\vspace{0.1in} 
 
 
-\hangindent=3em\hangafter=1[W11.] Kumar Padmanabh, Adi {Malikarjuna V}, \textbf{Sougata Sen}, Siva Prasad Katru, Amrit Kumar, C. {Sai Pawankumar}, Sunil Kumar Vuppala, Sanjoy Paul. \emph{ISense: A wireless sensor network based conference room management system. } In Workshop on Embedded Sensing Systems for Energy-Efficiency in Buildings (BuildSys 2009). \url{http://portal.acm.org/citation.cfm?doid=1810279.1810288}.\vspace{0.1in} 
+\hangindent=3em\hangafter=1[W11.] \textbf{Sougata Sen}, Archan Misra, Rajesh Balan, Lipyeow Lim. \emph{The case for cloud-enabled mobile sensing services. } In Proceedings of MCC workshop on Mobile cloud computing (MCC 2012). \url{http://dl.acm.org/citation.cfm?doid=2342509.2342521}.\vspace{0.1in} 
+
+
+\hangindent=3em\hangafter=1[W12.] Kumar Padmanabh, Adi {Malikarjuna V}, \textbf{Sougata Sen}, Siva Prasad Katru, Amrit Kumar, C. {Sai Pawankumar}, Sunil Kumar Vuppala, Sanjoy Paul. \emph{ISense: A wireless sensor network based conference room management system. } In Workshop on Embedded Sensing Systems for Energy-Efficiency in Buildings (BuildSys 2009). \url{http://portal.acm.org/citation.cfm?doid=1810279.1810288}.\vspace{0.1in} 
 
 
 %\end{itemize-noindent}

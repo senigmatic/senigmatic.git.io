@@ -3,3 +3,4 @@ TA,Computational Thinking (IS 103), Singapore Management University,2016,Primary
 GI,Internet-of-Things Sensors, Systems, \& Applications (COMP_ENG 465), Northwestern University,2020, Primary Instructor: Prof. Josiah Hester
 CoI,Wireless and Mobile Health (mHealth) (COMP_SCI 397, 497), Northwestern University,2020,Primary Instructor: Prof. Nabil Alshurafa
 CoI,Computer Networks (CS F 303),BITS Pilani Goa,2021,Primary Instructor: Prof. Vinayak Naik
+PI, Internet of Things: Design \& Development (CS G 518),BITS Pilani Goa,2021

@@ -1,12 +1,16 @@
+TPC,,EWSN,2022,International Conference on Embedded Wireless Systems and Networks,https://www.ewsn.org/
+RVW,E,PerCom,2022,IEEE International Conference on Pervasive Computing and Communications,http://percom.org 
+TPC,,ICDCN,2022,International Conference on Distributed Computing and Networking,https://icdcn2022.iiitd.edu.in/index.html
+TPC,,MobiQuitous,2021,EAI International Conference on Mobile and Ubiquitous Systems: Computing&#44; Networking and Services,http://mobiquitous.eai-conferences.org/
 TPC,,MASS,2021,IEEE International Conference on Mobile Ad-hoc and Sensor Systems, https://eng.auburn.edu/conference/ieee-mass2021/
 EB,,Ad Hoc Networks,2021-23, Elsevier Journal on Ad Hoc Networks,https://www.sciencedirect.com/journal/ad-hoc-networks
 DC,,ICDCN,2022,International Conference on Distributed Computing and Networking,https://icdcn2022.iiitd.edu.in/index.html
-TPC,,Compass,2021,ACM SIGCAS Conference on Computing and Sustainable Societies,https://compass.acm.org/
+TPC,,Compass,2021-22,ACM SIGCAS Conference on Computing and Sustainable Societies,https://compass.acm.org/
 SMC,,COMSNETS,2022, IEEE International Conference on COMmunication&#44; Systems and NETworkS, https://www.comsnets.org/
 OC,,WristSense,2021,Workshop on Sensing Systems and Applications Using Wrist Worn Smart Devices,https://sites.google.com/view/wristsense2021/home
 TPC,,STEERS,2021, Workshop on Serverless To sErvE moRe at Scale, http://www.steers.iitkgp.ac.in/
 TPC,,PerCom Industry Track,2021,IEEE International Conference on Pervasive Computing and Communications, http://www.percom.org/call-for-industry-paper
-TPC,,COMSNETS,2021, IEEE International Conference on COMmunication&#44; Systems and NETworkS, https://www.comsnets.org/
+TPC,,COMSNETS,2021-22, IEEE International Conference on COMmunication&#44; Systems and NETworkS, https://www.comsnets.org/
 TPC,,MASS,2020,IEEE International Conference on Mobile Ad-hoc and Sensor Systems, https://www.iitr.ac.in/mass2020/committee.html
 TPC,E,PerCom Industry Track,2020,IEEE International Conference on Pervasive Computing and Communications, http://percom.org/Previous/ST2020/call-for-industry-paper.html
 TPC,,PerCom Demo, 2020, IEEE International Conference on Pervasive Computing and Communications,http://www.percom.org/
@@ -25,11 +29,13 @@ TPC,,MASS,2018, IEEE International Conference on Mobile Ad-hoc and Sensor System
 TPC,,WristSense,2018, Workshop on Sensing Systems and Applications Using Wrist Worn Smart Devices,https://sites.google.com/view/wristsense2018
 TPC,,UbiComp Doctoral Colloquium,2018,International Conference on Pervasive and Ubiquitous Computing,http://ubicomp.org/ubicomp2018/cfps/doctoral.html
 RVW,,ACM TIoT,2021, ACM Transactions on Internet of Things,https://dl.acm.org/journal/tiot
+RVW,,ACM HEALTH,2021,ACM Transactions on Computing for Healthcare,https://health.acm.org/
 RVW,,ACM HEALTH,2019,ACM Transactions on Computing for Healthcare,https://health.acm.org/special_issue_wearable_health.cfm
 RVW,E,WoWMoM,2019,IEEE International Symposium on a World of Wireless&#44; Mobile and Multimedia networks,http://cs.ucf.edu/wowmom2019/
 RVW,,IMWUT,2018-21,Interactive&#44; Mobile&#44; Wearable and Ubiquitous Technologies Journal,https://imwut.acm.org/
 RVW,,IJDSN,2018,SAGE Publications International Journal of Distributed Sensor Networks,https://journals.sagepub.com/home/dsn
 RVW,,TMC,2018,IEEE Transactions on Mobile Computing,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755
+RVW,,PMC,2021,Elsevier Pervasive and Mobile Computing,https://www.journals.elsevier.com/pervasive-and-mobile-computing
 RVW,,PMC,2017-19,Elsevier Pervasive and Mobile Computing,https://www.journals.elsevier.com/pervasive-and-mobile-computing
 RVW,E,UbiComp,, International Conference on Pervasive and Ubiquitous Computing,
 RVW,E,MobiQuitous,2016,EAI International Conference on Mobile and Ubiquitous Systems: Computing&#44; Networking and Services,http://archive.mobiquitous.org/2016/show/home

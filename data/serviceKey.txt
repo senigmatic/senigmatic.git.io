@@ -2,7 +2,10 @@
 10,EB,Editorial Board
 20,OC,Organizers
 40,RVW,Reviewer
-50,SMC,Social Media Chair
-80,SV,Student Volunteer
+80,SMC,Social Media Chair
+90,SV,Student Volunteer
 30,TPC,Technical Program Committee Member
 60,WEB,Web Chair
+50,TC,Tutorial Chair
+75,DO,Doctoral Symposium Chair
+65,PUB, Publicity Chair

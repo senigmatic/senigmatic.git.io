@@ -1,3 +1,5 @@
+
+TPC,,MoMM,2022,International Conference on Advances in Mobile Computing & Multimedia Intelligence,https://www.iiwas.org/conferences/momm2022/
 TPC,,EWSN,2022,International Conference on Embedded Wireless Systems and Networks,https://www.ewsn.org/
 RVW,E,PerCom,2022,IEEE International Conference on Pervasive Computing and Communications,http://percom.org 
 TPC,,ICDCN,2022,International Conference on Distributed Computing and Networking,https://icdcn2022.iiitd.edu.in/index.html

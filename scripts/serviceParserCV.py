@@ -1,7 +1,7 @@
 import operator
 from serviceParser import parseAndCreateForWebSite
-serviceFile = '../services.txt'
-def parseAndCreateForCV(servFile='../services.txt'):
+serviceFile = '../data/services_v2.txt'
+def parseAndCreateForCV(servFile='../data/services_v2.txt'):
     vals={}
     serviceFile = servFile
     with open(serviceFile) as text:

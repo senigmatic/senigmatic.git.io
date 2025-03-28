@@ -18,7 +18,7 @@ def generateBib(cv=False,htmlC=True,separateJCW=False,bibfile='../data/myPub.bib
     print(bib_database.entries)
 
     def arrangeAuthors(authList):
-        lsp = authList.split('and')
+        lsp = authList.split(' and ')
         authStr=''
         for entrye in lsp:
             auth = entrye.strip()
@@ -28,6 +28,7 @@ def generateBib(cv=False,htmlC=True,separateJCW=False,bibfile='../data/myPub.bib
             if 'Sen, Sougata' in auth:
                 authStr+='<me>Sougata Sen</me>'
             else:
+                #print(entrye)
                 authStr+= entrye.split(',')[1].strip()+' '+entrye.split(',')[0].strip()
         return authStr
 

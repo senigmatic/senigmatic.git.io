@@ -24,6 +24,7 @@ def parseAndCreate():
 
     with open(serviceFile) as text:
         for txt in text:
+            print(txt)
             lsp = txt.split(',')
             getTheYears = lsp[3].strip().split(';')
             getYear = getTheYears[len(getTheYears)-1]

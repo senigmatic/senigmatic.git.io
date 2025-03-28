@@ -1,13 +1,106 @@
 
 
 \hangindent=1em \hangafter=0
-\textbf{Program Committee: }PerCom Industry Track 2020, IEEE International Conference on Pervasive Computing and Communications.
+\textbf{Program Committee: }WWW 2024,  The ACM Web Conference.
 
 \hangindent=1em \hangafter=0
-\textbf{Program Committee: }PerCom Demo 2020,  IEEE International Conference on Pervasive Computing and Communications.
+\textbf{Program Committee: }ICDCN 2024, International Conference on Distributed Computing and Networking.
 
 \hangindent=1em \hangafter=0
-\textbf{Program Committee: }WristSense 2020, Workshop on Sensing Systems and Applications Using Wrist Worn Smart Devices.
+\textbf{Program Committee: }WWW 2024,  The ACM Web Conference.
+
+\hangindent=1em \hangafter=0
+\textbf{Program Committee: }ISWC 2023,  International Symposium on Wearable computers.
+
+\hangindent=1em \hangafter=0
+\textbf{Reviewer: }MobileHCI 2023,  International conference on mobile human-computer interaction.
+
+\hangindent=1em \hangafter=0
+\textbf{Program Committee: }DCOSS-IoT 2023, International Conference on Distributed Computing in Smart Systems and the Internet of Things.
+
+\hangindent=1em \hangafter=0
+\textbf{Program Committee: }EWSN 2023, International Conference on Embedded Wireless Systems and Networks.
+
+\hangindent=1em \hangafter=0
+\textbf{Program Committee: }ICDCN Poster Track 2023, International Conference on Distributed Computing and Networking.
+
+\hangindent=1em \hangafter=0
+\textbf{Program Committee: }ICDCN 2023, International Conference on Distributed Computing and Networking.
+
+\hangindent=1em \hangafter=0
+\textbf{Reviewer: }ESL 2022,  IEEE Embedded Systems Letter.
+
+\hangindent=1em \hangafter=0
+\textbf{Reviewer: }Pervasive 2022, IEEE Pervasive Computing Magazine.
+
+\hangindent=1em \hangafter=0
+\textbf{Reviewer: }ESL 2022,  IEEE Embedded Systems Letter.
+
+\hangindent=1em \hangafter=0
+\textbf{Reviewer: }Pervasive 2022, IEEE Pervasive Computing Magazine.
+
+\hangindent=1em \hangafter=0
+\textbf{Program Committee: }ICCCN 2022,   International Conference on Computer Communications and Networks.
+
+\hangindent=1em \hangafter=0
+\textbf{Reviewer: }ESL 2022,  IEEE Embedded Systems Letter.
+
+\hangindent=1em \hangafter=0
+\textbf{Reviewer: }Pervasive 2022, IEEE Pervasive Computing Magazine.
+
+\hangindent=1em \hangafter=0
+\textbf{Program Committee: }ICCCN 2022,   International Conference on Computer Communications and Networks.
+
+\hangindent=1em \hangafter=0
+\textbf{Program Committee: }Compass 2021;2022, ACM SIGCAS Conference on Computing and Sustainable Societies.
+
+\hangindent=1em \hangafter=0
+\textbf{Reviewer: }IEEE IOT 2022,  IEEE Internet of Things Journal.
+
+\hangindent=1em \hangafter=0
+\textbf{Reviewer: }ESL 2022,  IEEE Embedded Systems Letter.
+
+\hangindent=1em \hangafter=0
+\textbf{Reviewer: }Pervasive 2022, IEEE Pervasive Computing Magazine.
+
+\hangindent=1em \hangafter=0
+\textbf{Program Committee: }ICCCN 2022,   International Conference on Computer Communications and Networks.
+
+\hangindent=1em \hangafter=0
+\textbf{Program Committee: }Compass 2021;2022, ACM SIGCAS Conference on Computing and Sustainable Societies.
+
+\hangindent=1em \hangafter=0
+\textbf{Reviewer: }ESL 2022,  IEEE Embedded Systems Letter.
+
+\hangindent=1em \hangafter=0
+\textbf{Reviewer: }Pervasive 2022, IEEE Pervasive Computing Magazine.
+
+\hangindent=1em \hangafter=0
+\textbf{Program Committee: }ICCCN 2022,   International Conference on Computer Communications and Networks.
+
+\hangindent=1em \hangafter=0
+\textbf{Reviewer: }ESL 2022,  IEEE Embedded Systems Letter.
+
+\hangindent=1em \hangafter=0
+\textbf{Reviewer: }Pervasive 2022, IEEE Pervasive Computing Magazine.
+
+\hangindent=1em \hangafter=0
+\textbf{Program Committee: }ICCCN 2022,   International Conference on Computer Communications and Networks.
+
+\hangindent=1em \hangafter=0
+\textbf{Program Committee: }Compass 2021;2022, ACM SIGCAS Conference on Computing and Sustainable Societies.
+
+\hangindent=1em \hangafter=0
+\textbf{Program Committee: }COMSNETS 2021;2022,  IEEE International Conference on COMmunication&#44; Systems and NETworkS.
+
+\hangindent=1em \hangafter=0
+\textbf{Program Committee: }STEERS 2021,  Workshop on Serverless To sErvE moRe at Scale.
+
+\hangindent=1em \hangafter=0
+\textbf{Reviewer: }ACM TIoT 2021,  ACM Transactions on Internet of Things.
+
+\hangindent=1em \hangafter=0
+\textbf{Program Committee: }PerCom Industry Track 2020;2021;2022, IEEE International Conference on Pervasive Computing and Communications.
 
 \hangindent=1em \hangafter=0
 \textbf{Program Committee: }DICE 2020,  Workshop on Distributed and Intelligent Computing at the Edge.
@@ -16,49 +109,37 @@
 \textbf{Program Committee: }SmartSensing 2020,  1st International Workshop on Smart Sensing.
 
 \hangindent=1em \hangafter=0
-\textbf{Program Committee: }COMSNETS Graduate Forum 2020, International Conference on COMmunication Systems and NETworkS.
+\textbf{Program Committee: }MobiQuitous 2019;2021, EAI International Conference on Mobile and Ubiquitous Systems: Computing&#44; Networking and Services.
 
 \hangindent=1em \hangafter=0
-\textbf{Web Chair: }WristSense 2020, Workshop on Sensing Systems and Applications Using Wrist Worn Smart Devices.
+\textbf{Reviewer: }ACM HEALTH 2019;2021, ACM Transactions on Computing for Healthcare.
 
 \hangindent=1em \hangafter=0
-\textbf{Program Committee: }MobiQuitous 2019, EAI International Conference on Mobile and Ubiquitous Systems: Computing&#44; Networking and Services.
+\textbf{Web Chair: }WristSense 2019;2020;2021, Workshop on Sensing Systems and Applications Using Wrist Worn Smart Devices.
+
+\hangindent=1em \hangafter=0
+\textbf{Program Committee: }PerCom Demo 2019;2020,  IEEE International Conference on Pervasive Computing and Communications.
+
+\hangindent=1em \hangafter=0
+\textbf{Program Committee: }COMSNETS Graduate Forum 2019;2020, International Conference on COMmunication Systems and NETworkS.
 
 \hangindent=1em \hangafter=0
 \textbf{Program Committee: }MSWiM 2019, ACM International Conference on Modeling&#44; Analysis and Simulation of Wireless and Mobile Systems.
 
 \hangindent=1em \hangafter=0
-\textbf{Program Committee: }MASS 2019, IEEE International Conference on Mobile Ad-hoc and Sensor Systems.
-
-\hangindent=1em \hangafter=0
-\textbf{Program Committee: }PerCom Demo 2019,  IEEE International Conference on Pervasive Computing and Communications.
-
-\hangindent=1em \hangafter=0
 \textbf{Program Committee: }WCNC Demo 2019, IEEE Wireless Communications and Networking Conference.
-
-\hangindent=1em \hangafter=0
-\textbf{Program Committee: }COMSNETS Graduate Forum 2019, International Conference on COMmunication Systems and NETworkS.
-
-\hangindent=1em \hangafter=0
-\textbf{Program Committee: }WristSense 2019, Workshop on Sensing Systems and Applications Using Wrist Worn Smart Devices.
-
-\hangindent=1em \hangafter=0
-\textbf{Reviewer: }ACM HEALTH 2019, ACM Transactions on Computing for Healthcare.
 
 \hangindent=1em \hangafter=0
 \textbf{Reviewer: }WoWMoM 2019, IEEE International Symposium on a World of Wireless&#44; Mobile and Multimedia networks. External.
 
 \hangindent=1em \hangafter=0
-\textbf{Web Chair: }WristSense 2019, Workshop on Sensing Systems and Applications Using Wrist Worn Smart Devices.
+\textbf{Program Committee: }MASS 2018;2019;2020;2021,  IEEE International Conference on Mobile Ad-hoc and Sensor Systems.
 
 \hangindent=1em \hangafter=0
-\textbf{Reviewer: }IMWUT 2018-19, Interactive&#44; Mobile&#44; Wearable and Ubiquitous Technologies Journal.
+\textbf{Reviewer: }ACM IMWUT 2018;2019;2020;2021, Interactive&#44; Mobile&#44; Wearable and Ubiquitous Technologies Journal.
 
 \hangindent=1em \hangafter=0
-\textbf{Program Committee: }MASS 2018,  IEEE International Conference on Mobile Ad-hoc and Sensor Systems.
-
-\hangindent=1em \hangafter=0
-\textbf{Program Committee: }WristSense 2018,  Workshop on Sensing Systems and Applications Using Wrist Worn Smart Devices.
+\textbf{Program Committee: }WristSense 2018;2019;2020,  Workshop on Sensing Systems and Applications Using Wrist Worn Smart Devices.
 
 \hangindent=1em \hangafter=0
 \textbf{Program Committee: }UbiComp Doctoral Colloquium 2018, International Conference on Pervasive and Ubiquitous Computing.
@@ -67,13 +148,13 @@
 \textbf{Reviewer: }IJDSN 2018, SAGE Publications International Journal of Distributed Sensor Networks.
 
 \hangindent=1em \hangafter=0
-\textbf{Reviewer: }TMC 2018, IEEE Transactions on Mobile Computing.
+\textbf{Reviewer: }IEEE TMC 2018, IEEE Transactions on Mobile Computing.
 
 \hangindent=1em \hangafter=0
 \textbf{Web Chair: }UbiComp 2018, International Conference on Pervasive and Ubiquitous Computing.
 
 \hangindent=1em \hangafter=0
-\textbf{Reviewer: }PMC 2017-19, Elsevier Pervasive and Mobile Computing.
+\textbf{Reviewer: }Elsevier PMC 2017;2018;2019;2021;2022, Elsevier Pervasive and Mobile Computing.
 
 \hangindent=1em \hangafter=0
 \textbf{Reviewer: }MobiQuitous 2016, EAI International Conference on Mobile and Ubiquitous Systems: Computing&#44; Networking and Services. External.
@@ -86,6 +167,3 @@
 
 \hangindent=1em \hangafter=0
 \textbf{Reviewer: }ISWC 2013, ACM International Symposium on Wearable Computers. External.
-
-\hangindent=1em \hangafter=0
-\textbf{Reviewer: }UbiComp ,  International Conference on Pervasive and Ubiquitous Computing. External.
